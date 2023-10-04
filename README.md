@@ -1,1 +1,2 @@
-# linear-regression-multiple-input
+# Linear- Regression Multiple Input
+The provided code implements the gradient descent algorithm for multiply input/feature. I am utilizing the ['multiple-linear-regression-dataset'](https://www.kaggle.com/datasets/hussainnasirkhan/multiple-linear-regression-dataset) dataset obtained from Kaggle. This dataset has three columns and twenty rows. There are two independent variables (feature) and one dependent variable (target). The independent variables are 'age' and 'experience'. The dependent variable is 'income'.
